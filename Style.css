@@ -1,0 +1,65 @@
+#ff{
+    border: 5px solid rgb(245, 3, 3);
+    padding: 15px;
+   text-align: center;
+   color:rgb(18, 250, 10);
+   font-weight: 600;
+   font-size: 20px;
+   border-radius: 25px;
+    text-align: justify;
+  
+}
+header{
+    text-align: center;
+    height: 180px;
+    width:100%;
+    border: 10px dotted rgb(0, 0, 0);
+    /* background-image: url('/CSS/art.jpg'); */
+    background-repeat: repeat;
+    background-color: aqua;
+    background-size:300px;
+    font-size: xx-large;
+    font-style: inherit;
+}
+.height{
+    text-align: center;
+    /* text-decoration: underline wavy purple; */
+    font-weight: 900;
+    border:5px double rebeccapurple;
+    padding: 8px;
+    font-size: 40px;
+
+}
+.p1{
+    background-color: cyan;
+    border-top: 5px solid red;
+    border-right: 5px solid blue;
+    border-bottom: 5px solid rgb(231, 6, 6);
+    border-left: 5px solid palevioletred;
+    border-radius: 18px;
+    padding: 10px;
+    font-style:oblique;
+    font-weight: 400;
+    font-size: larger;
+    box-shadow: 10px 10px 10px 10px;
+    
+}
+.p2{
+    /* background-color: tomato; */
+    background-image: url('/CSS/EN\ IT.jpg');
+    border: 6px dotted rebeccapurple;
+    background-size: 150px;
+    font-size:larger;
+    
+    
+
+}
+span{
+    color:crimson;
+}
+.SSS{
+    border:2px solid red;
+    padding: 15px;
+    margin-left: 19px;
+    display: inline-block;
+}
